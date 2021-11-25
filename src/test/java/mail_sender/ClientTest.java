@@ -10,8 +10,8 @@ class ClientTest {
     void getId() {
         Client cl1 = new Client();
         Client cl2 = new Client();
-
-        assertEquals(1, cl1.getId());
-        assertEquals(2, cl2.getId());
+        //2 and 3, because in another test client with ID 1 is already created
+        assertEquals(2, cl1.getId());
+        assertEquals(3, cl2.getId());
     }
 }
