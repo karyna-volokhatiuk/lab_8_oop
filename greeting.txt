@@ -1,0 +1,2 @@
+Greetings, %NAME%!
+ You won a car. %SEX%, we are waiting for you.

@@ -1,0 +1,2 @@
+Happy birthday, %NAME%!
+ %SEX%, be happy in your %AGE%!
